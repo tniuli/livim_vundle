@@ -58,3 +58,9 @@
 
 #Others
 <C-i> <C-o>: go to next/last cursor position
+
+# Plugin Installation Instuctions
+## gocode
++ go get github.com/nsf/gocode
++ Bundle 'Blackrush/vim-gocode'
++ vim +BundleInstall
