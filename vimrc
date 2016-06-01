@@ -14,8 +14,8 @@ call vundle#begin()
 " Plugin 'VundleVim/Vundle.vim'
 Plugin 'gmarik/vundle'
 
+Bundle 'Blackrush/vim-gocode'
 Plugin 'elubow/cql-vim'
-Plugin 'fatih/vim-go'
 Plugin 'godlygeek/tabular'
 Plugin 'greplace.vim'
 Plugin 'kien/ctrlp.vim'
