@@ -134,7 +134,6 @@ highlight CursorLine guibg=yellow
 "hi cursorline guibg = gray guifg = red
 
 " How many lines of history vim has to remember"
-set history=100000
 set hlsearch
 set incsearch
 
